@@ -4,7 +4,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 using System;
 
-namespace LogTest
+namespace LoggingBenchmarks
 {
     [MemoryDiagnoser]
     public class LoggingBenchmark

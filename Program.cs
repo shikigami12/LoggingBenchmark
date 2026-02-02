@@ -1,9 +1,9 @@
 ﻿using BenchmarkDotNet.Running;
-using LogTest;
+using LoggingBenchmarks;
 using System;
 using System.Threading;
 
-namespace LogTest
+namespace LoggingBenchmarks
 {
     class Program
     {
